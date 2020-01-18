@@ -1,2 +1,2 @@
 # sticky-notes
-Pure JS playgrownd
+Pure JS playground
